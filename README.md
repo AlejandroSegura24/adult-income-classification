@@ -1,4 +1,4 @@
-# Clasificación de Ingresos — Adult Income (Random Forest)
+# Adult income classification (Random Forest)
 
 ## Descripción
 
